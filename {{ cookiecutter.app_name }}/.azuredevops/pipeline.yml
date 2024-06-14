@@ -1,0 +1,4 @@
+variables:
+  environment: '{{ cookiecutter.purpose_code }}'
+  connection_string: 'your_connection_string'
+  api_key: 'your_api_key'

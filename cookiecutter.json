@@ -1,0 +1,6 @@
+{
+    "project_name": "Cookiecutter Website Simple",
+    "app_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author": "Anonymous",
+    "purpose_code": ""
+}
